@@ -66,3 +66,10 @@
 2022福州十九中化学质检专项训练(二)  | 下列厨房用品的主要材料属于合成材料的是()。A.不锈钢刀B.塑料菜盆C.木质砧板D.陶瓷汤匙  | B
 2022福州十九中化学质检专项训练(三)  |用30%H2O2溶液和水配置6%H2O2溶液。量取30%H2O2溶液时仰视读数，其他操作正确，则配置的H2O2稀溶液的溶质质量分数()6%(＞/＜/＝)。  | ＞
 2022福州十九中化学质检专项训练(四)  | ![](https://imglf6.lf127.net/img/8cd51631a5dae529/MkQ2N09jTTFRT0NScUozUEFxNklkN24wdjFRUTlmOU9qbzBQTUJQYyt1TT0.jpg?imageView&thumbnail=1680x0)    | D
+福州第十九中学2021-2022学年九年级化学阶段测试  | 下列物质的性质与其用途对应关系错误的是()。A.硫酸能与金属反应——用于除铁锈。B.干冰易升华——用于人工降雨C.氢氧化钠易潮解——用作干燥剂。D.不锈钢耐腐蚀——制造医疗器械  | A
+福州第十九中学2021-2022学年九年级化学阶段测试  | 84消毒液说明书:【有效成分】NaClO;【质量分数】25%;【注意事项】具有一定的刺激性和腐蚀性。使用“84消毒液”的注意事项有()(写一条)。  | 使用时应带手套
+福州第十九中学2021-2022学年九年级化学阶段测试  | ![](https://imglf3.lf127.net/img/5d5d8eb3f51c2212/MkQ2N09jTTFRT0NScUozUEFxNklkeGZ3d3c4QlFuc0kwc3dyREUxMWtRaz0.jpg?imageView&thumbnail=1680x0)  (4)③调节pH，应选择的试剂是()(写名称)。  | 稀盐酸
+福州第十九中学2021-2022学年九年级化学阶段测试  | 甲→乙，乙→甲，且甲、乙是不同类别的物质。若甲是氢氧化钙，乙的化学式是();若甲是碳酸钠，乙物质和碳酸钠属于不同类别的化合物，则“甲→乙”的化学方程式为()。  | Na2CO3＋Ca(OH)2＝CaCO3＋2NaOH
+福州第十九中学2021-2022学年九年级化学阶段测试  | 往NaOH溶液中加入过量稀硫酸，再加入少量X。加入X可验证稀硫酸与NaOH能发生反应，符合此条件的X是()(填标号)。A.FeCl3B.Cu(OH)2C.Na2CO3D.Ba(NO3)2  | A
+福州第十九中学2021-2022学年九年级化学阶段测试  | ![](https://imglf6.lf127.net/img/d7535663a5d5141e/MkQ2N09jTTFRT0NScUozUEFxNklkL0xXbHEvQktCODZ1UEdOVWtkdURDVT0.jpg?imageView&thumbnail=1680x0)  左瓶“？”指20mL的H2O，左瓶对应Ⅰ，右瓶对应Ⅱ。曲线Ⅰ的最终气压与起始气压相同的原因是()。  | 20mL的H2O溶解了20mL的CO2
+福州第十九中学2021-2022学年九年级化学阶段测试  | ![](https://imglf3.lf127.net/img/eff6d7cc6e2fa0d6/MkQ2N09jTTFRT0NScUozUEFxNklkNHhGSUhINm9DR0t3K3FzcUpwaml2Zz0.jpg?imageView&thumbnail=1680x0)  观察图3，判断饱和NaHCO3溶液能分解的依据之一是“二氧化碳浓度在一定时间内增大”，也可以依据()判断。  | pH值在一定时间内增大(注意题中设备能测出多类数据的，在判断和实验设计中都要体现。如果这里要做个新的对比实验，实验中比较的就该写一定时间内CO2浓度和pH值变化两个。)
