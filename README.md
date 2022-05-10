@@ -3,6 +3,30 @@
 ## [陈郑逸领域-学习子页面](https://fujianprovince.github.io/study/ "就是本页")
 ## [陈郑逸领域-博物子页面](https://fujianprovince.github.io/natural-history/ "探索博物")
 ![photo](https://imglf5.lf127.net/img/9975664593e2fcfe/MkQ2N09jTTFRT0RybFY4QlBROVZUZzZtc3YrbkV1OHJyaHc1NEZ6cHFRQT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)  
+## 语文
+        语文是听、说、读、写、译的语言文字等的能力和语言知识及文化知识的统称。
+![](https://imglf4.lf127.net/img/687e5298479e3b67/MkQ2N09jTTFRT0NScUozUEFxNklkMWlSWXJDMklDWmJSYU1WU1hVVXcrOD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf4.lf127.net/img/820be7e34a1b7cf2/MkQ2N09jTTFRT0NScUozUEFxNklkK3lCa0RlZVkzaU9oRllzYk51WGlSaz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf4.lf127.net/img/bd809eb9a78e8a9b/MkQ2N09jTTFRT0NScUozUEFxNklkM1lwSlluMkFyUGg1UTdmREJCN2xoaz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/07ea0b86f2b0558c/MkQ2N09jTTFRT0NScUozUEFxNklkeFFPeGZ3QkkzLy9IRWMzVFNCa3E1az0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/8a3f26bd826b4908/MkQ2N09jTTFRT0NScUozUEFxNklkMnJ3WHEzL2ZLOVdOa0JDQjB2VmZVaz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/5e67e0c77ff816f1/MkQ2N09jTTFRT0NScUozUEFxNklkNWVVb1NWVklDUjN4NXc0QkwvalIyZz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/b3ff75ac7a839e1c/MkQ2N09jTTFRT0NScUozUEFxNklkeHFxaWJodEtOb0NmeUx5OWhRTXZwdz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/b5f55e82a917f434/MkQ2N09jTTFRT0NScUozUEFxNklkNjVvWG9xN1o5MGQ4MmhnN3N2R3ZKbz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/a559cf5b5dcdefc7/MkQ2N09jTTFRT0NScUozUEFxNklkeVorWEtDVlhNWjJ3MnR3anV3bDRqaz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf5.lf127.net/img/3bff74ef53756127/MkQ2N09jTTFRT0NScUozUEFxNklkNGFHZk12ayt3L2dPMS9VN1gyK3U5Zz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/a902fba244222d7f/MkQ2N09jTTFRT0NScUozUEFxNklkNFhGcGM3Y1Y4eGNBVk1kWnMyc1J2az0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/37cdc7687c75c700/MkQ2N09jTTFRT0NScUozUEFxNklkMnBuYXhJR2JObVlkRTBrOHA0YitPZz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/d70bfb83ca948d33/MkQ2N09jTTFRT0NScUozUEFxNklkeHBCVFN5R3pqSXNhOVE2SU9BM3RuND0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/b3d5e7ba6d349a93/MkQ2N09jTTFRT0NScUozUEFxNklkeCtycm1VNk0zNkNZVEhRMjVvL0dzUT0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/440c016c508724d3/MkQ2N09jTTFRT0NScUozUEFxNklkOS9LT2FKaUhJQnp1VjJVdWNCRzlDOD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/2262542d79b830d5/MkQ2N09jTTFRT0NScUozUEFxNklkNUhSVTJEUDBFZjNLZUZ1Q0NuSjhkMD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf4.lf127.net/img/1e216e3f55a138d9/MkQ2N09jTTFRT0NScUozUEFxNklkMTIxa2pDbkcwbHA0bzVzMFdmaWhabz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/b8152f0cd9fa2718/MkQ2N09jTTFRT0NScUozUEFxNklkNDd5WVNkZDNudEZVSTNzWmlFZ0xHOD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf4.lf127.net/img/990d3e3aa0f503b2/MkQ2N09jTTFRT0NScUozUEFxNklkN1oyeC82OUUvTFlCTlVNdFpoK0NSOD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/0778fb6096d089a0/MkQ2N09jTTFRT0NScUozUEFxNklkMHNVUXE5ZkY0NFZwZkM0TzgrNWE4VT0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/6fcd0732d429fa4c/MkQ2N09jTTFRT0NScUozUEFxNklkNGFXbWpNZU9UQ3dvM1JuenRIcWZEST0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/843abe403bbbbdb7/MkQ2N09jTTFRT0NScUozUEFxNklkeXYzSVRRQ2s3a21zbUZjUWhWNWFPRT0.jpeg?imageView&thumbnail=1680x0)  
 ## 化学
     化学（chemistry）是自然科学的一种。化学是主要在分子、原子层面，研究物质的组成、性质、结构与变化规律的科学。  
 
