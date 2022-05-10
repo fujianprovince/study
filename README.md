@@ -65,4 +65,4 @@
 2022福州十九中化学质检专项训练(一)  | “端午节”有吃粽子的习俗。粽子中的糯米为人体提供主要的营养素是()。  | 糖类(注意“类”不能漏写。)
 2022福州十九中化学质检专项训练(二)  | 下列厨房用品的主要材料属于合成材料的是()。A.不锈钢刀B.塑料菜盆C.木质砧板D.陶瓷汤匙  | B
 2022福州十九中化学质检专项训练(三)  |用30%H2O2溶液和水配置6%H2O2溶液。量取30%H2O2溶液时仰视读数，其他操作正确，则配置的H2O2稀溶液的溶质质量分数()6%(＞/＜/＝)。  | ＞
-2022福州十九中化学质检专项训练(四)  | ![](https://imglf4.lf127.net/img/5f248f581d8dea44/MkQ2N09jTTFRT0NScUozUEFxNklkd2tpSWlYNldUUmwweWZHZ0dQc2RhYz0.jpg?imageView&thumbnail=1680x0)    | D
+2022福州十九中化学质检专项训练(四)  | ![](https://imglf6.lf127.net/img/8cd51631a5dae529/MkQ2N09jTTFRT0NScUozUEFxNklkN24wdjFRUTlmOU9qbzBQTUJQYyt1TT0.jpg?imageView&thumbnail=1680x0)    | D
