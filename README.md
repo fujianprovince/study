@@ -5,6 +5,7 @@
 ![photo](https://imglf5.lf127.net/img/9975664593e2fcfe/MkQ2N09jTTFRT0RybFY4QlBROVZUZzZtc3YrbkV1OHJyaHc1NEZ6cHFRQT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)  
 ## 语文
         语文是听、说、读、写、译的语言文字等的能力和语言知识及文化知识的统称。
+
 ![](https://imglf4.lf127.net/img/687e5298479e3b67/MkQ2N09jTTFRT0NScUozUEFxNklkMWlSWXJDMklDWmJSYU1WU1hVVXcrOD0.jpeg?imageView&thumbnail=1680x0)  
 ![](https://imglf4.lf127.net/img/820be7e34a1b7cf2/MkQ2N09jTTFRT0NScUozUEFxNklkK3lCa0RlZVkzaU9oRllzYk51WGlSaz0.jpeg?imageView&thumbnail=1680x0)  
 ![](https://imglf4.lf127.net/img/bd809eb9a78e8a9b/MkQ2N09jTTFRT0NScUozUEFxNklkM1lwSlluMkFyUGg1UTdmREJCN2xoaz0.jpeg?imageView&thumbnail=1680x0)  
