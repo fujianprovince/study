@@ -89,74 +89,74 @@
     英语（英语：English）是一种西日耳曼语支，最早被中世纪的英国使用，并因其广阔的殖民地而成为世界使用面积最广的语言。
 
 ### 拓展词汇
-accommodate n.容纳;顾及 
-accommodation n.住处;停留处;膳宿 
-actual adj.实际的;真实的 
-actually adv.事实上;的确 
-addict n.对……入迷的人 
-addicted n.有瘾的;入迷的 
-addicted to 对……很入迷 
-advanced adj.高级的;高等的;先进的 
-affair n.公共事务;事件;关系 
-amazed adj.惊奇的;惊喜的 
-annoy vt.使恼怒;打扰 
-annoyed adj.恼怒的;生气的 
-anxious adj.焦虑的;不安的 
-apart adv.分离;分开;成碎片 
-apply vi.&vt.申请;请求 vt.应用;涂(油漆、乳剂) 
-apply for 申请 
-appreciate vt.欣赏;重视;感激;领会 vi.增值 
-appreciation n.欣赏;体谅;理解;同情 
-arrange v.安排;筹备 
-arrangement n.安排;筹备 
-as if 似乎;好像;仿佛 
-attitude n.态度;看法 
-be attracted to 喜爱 
-audience n.观众;听众 
-awkward adj.令人尴尬的;难对付的 
-badminton n.羽毛球运动 
-based adj.以(某事)为基础的;以……为重要部分(或特征)的 
-BCE/B.C. 公元前 
-beg vt.恳求;祈求;哀求 
-brochure n.资料(或广告)手册 
-bury vt.埋葬;安葬 
-campus n.校园;校区 
-castle n.城堡;堡垒 
-CE/A.D. 公元 
-challenge n.挑战;艰巨任务 vt.怀疑;向……挑战 
-champion n.冠军;优胜者 
-championship n.锦标赛;冠军赛;冠军称号 
-check in (在旅馆、机场等)登记 
-check out 结账离开(旅馆等) 
-clean up 打扫(或清除)干净 
-come along 跟随;到达;进步;赶快 
-comment n.议论;评论 vi.&vt.发表意见;评论 
-compare ... with/to ... 与……比较 
-concentrate vi.&vt.集中(注意力);聚精会神 
-concentrate on 集中精力于 
-concern vt.涉及;影响 n.关心 
-confuse vt.使糊涂;使迷惑 
-confused adj.糊涂的;迷惑的 
-confusing adj.难以理解的;不清楚的 
-contact vt.联络;联系 n.联系;接触 
-context n.上下文;语境;背景 
-crack n.裂纹;裂缝 vi.&vt.(使)破裂 
-crash vi.&vt.碰撞;撞击 n.撞车;碰撞 
-credit n.借款;信用;称赞;学分 
-credit card n.信用卡 
-curious adj.好奇的;求知欲强的 
-cut ... out 停止做(或使用、食用);剪下 
-damage vt.损害;破坏 n.损坏;损失 
-date back (to ...) 追溯到 
-debate n.辩论;争论 vt.&vi.辩论;争论 
-deliver vt.&vi.递送;传达 vt.发表 
-demand n.要求;需求 vt.强烈要求;需要 vi.查问 
-designer n.设计者 
-despite prep.即使;尽管 
-destination n.目的地;终点 
-determine v.决定;确定;测定 
-determination n.决心;决定 
-disaster n.灾害;灾难   
+accommodate n.容纳;顾及  
+accommodation n.住处;停留处;膳宿  
+actual adj.实际的;真实的  
+actually adv.事实上;的确  
+addict n.对……入迷的人  
+addicted n.有瘾的;入迷的  
+addicted to 对……很入迷  
+advanced adj.高级的;高等的;先进的  
+affair n.公共事务;事件;关系  
+amazed adj.惊奇的;惊喜的  
+annoy vt.使恼怒;打扰  
+annoyed adj.恼怒的;生气的  
+anxious adj.焦虑的;不安的  
+apart adv.分离;分开;成碎片  
+apply vi.&vt.申请;请求 vt.应用;涂(油漆、乳剂)  
+apply for 申请  
+appreciate vt.欣赏;重视;感激;领会 vi.增值  
+appreciation n.欣赏;体谅;理解;同情  
+arrange v.安排;筹备  
+arrangement n.安排;筹备  
+as if 似乎;好像;仿佛  
+attitude n.态度;看法  
+be attracted to 喜爱  
+audience n.观众;听众  
+awkward adj.令人尴尬的;难对付的  
+badminton n.羽毛球运动  
+based adj.以(某事)为基础的;以……为重要部分(或特征)的  
+BCE/B.C. 公元前  
+beg vt.恳求;祈求;哀求  
+brochure n.资料(或广告)手册  
+bury vt.埋葬;安葬  
+campus n.校园;校区  
+castle n.城堡;堡垒  
+CE/A.D. 公元  
+challenge n.挑战;艰巨任务 vt.怀疑;向……挑战  
+champion n.冠军;优胜者  
+championship n.锦标赛;冠军赛;冠军称号  
+check in (在旅馆、机场等)登记  
+check out 结账离开(旅馆等)  
+clean up 打扫(或清除)干净  
+come along 跟随;到达;进步;赶快  
+comment n.议论;评论 vi.&vt.发表意见;评论  
+compare ... with/to ... 与……比较  
+concentrate vi.&vt.集中(注意力);聚精会神  
+concentrate on 集中精力于  
+concern vt.涉及;影响 n.关心  
+confuse vt.使糊涂;使迷惑  
+confused adj.糊涂的;迷惑的  
+confusing adj.难以理解的;不清楚的  
+contact vt.联络;联系 n.联系;接触  
+context n.上下文;语境;背景  
+crack n.裂纹;裂缝 vi.&vt.(使)破裂  
+crash vi.&vt.碰撞;撞击 n.撞车;碰撞  
+credit n.借款;信用;称赞;学分  
+credit card n.信用卡  
+curious adj.好奇的;求知欲强的  
+cut ... out 停止做(或使用、食用);剪下  
+damage vt.损害;破坏 n.损坏;损失  
+date back (to ...) 追溯到  
+debate n.辩论;争论 vt.&vi.辩论;争论  
+deliver vt.&vi.递送;传达 vt.发表  
+demand n.要求;需求 vt.强烈要求;需要 vi.查问  
+designer n.设计者  
+despite prep.即使;尽管  
+destination n.目的地;终点  
+determine v.决定;确定;测定  
+determination n.决心;决定   
+disaster n.灾害;灾难  
 ## 化学
     化学（chemistry）是自然科学的一种。化学是主要在分子、原子层面，研究物质的组成、性质、结构与变化规律的科学。  
 
