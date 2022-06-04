@@ -1,8 +1,36 @@
 # 陈郑逸领域-学习子页面
-## [陈郑逸领域-首页](https://fujianprovince.github.io/ "回到首页")  
-## [陈郑逸领域-学习子页面](https://fujianprovince.github.io/study/ "就是本页")
-## [陈郑逸领域-博物子页面](https://fujianprovince.github.io/natural-history/ "探索博物")
+## [陈郑逸领域-首页](https://fujianprovince.github.io/ "探索首页")  
+## [陈郑逸领域-学习子页面](https://fujianprovince.github.io/study/ "就是本页")  
+## [陈郑逸领域-博物子页面](https://fujianprovince.github.io/natural-history/ "探索博物")  
+## [陈郑逸领域-实验子页面](https://fujianprovince.github.io/experiments/ "探索实验") 
+## [陈郑逸领域-文旅子页面](https://fujianprovince.github.io/literature-and-travel/ "探索文旅")  
+## [陈郑逸领域-老师同学子页面](https://fujianprovince.github.io/teachers-and-classmates/ "探索老师同学")  
 ![photo](https://imglf5.lf127.net/img/9975664593e2fcfe/MkQ2N09jTTFRT0RybFY4QlBROVZUZzZtc3YrbkV1OHJyaHc1NEZ6cHFRQT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)  
+## 语文
+    语文是听、说、读、写、译的语言文字等的能力和语言知识及文化知识的统称。
+
+![](https://imglf4.lf127.net/img/687e5298479e3b67/MkQ2N09jTTFRT0NScUozUEFxNklkMWlSWXJDMklDWmJSYU1WU1hVVXcrOD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf4.lf127.net/img/820be7e34a1b7cf2/MkQ2N09jTTFRT0NScUozUEFxNklkK3lCa0RlZVkzaU9oRllzYk51WGlSaz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf4.lf127.net/img/bd809eb9a78e8a9b/MkQ2N09jTTFRT0NScUozUEFxNklkM1lwSlluMkFyUGg1UTdmREJCN2xoaz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/07ea0b86f2b0558c/MkQ2N09jTTFRT0NScUozUEFxNklkeFFPeGZ3QkkzLy9IRWMzVFNCa3E1az0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/8a3f26bd826b4908/MkQ2N09jTTFRT0NScUozUEFxNklkMnJ3WHEzL2ZLOVdOa0JDQjB2VmZVaz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/5e67e0c77ff816f1/MkQ2N09jTTFRT0NScUozUEFxNklkNWVVb1NWVklDUjN4NXc0QkwvalIyZz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/b3ff75ac7a839e1c/MkQ2N09jTTFRT0NScUozUEFxNklkeHFxaWJodEtOb0NmeUx5OWhRTXZwdz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/b5f55e82a917f434/MkQ2N09jTTFRT0NScUozUEFxNklkNjVvWG9xN1o5MGQ4MmhnN3N2R3ZKbz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/a559cf5b5dcdefc7/MkQ2N09jTTFRT0NScUozUEFxNklkeVorWEtDVlhNWjJ3MnR3anV3bDRqaz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf5.lf127.net/img/3bff74ef53756127/MkQ2N09jTTFRT0NScUozUEFxNklkNGFHZk12ayt3L2dPMS9VN1gyK3U5Zz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/a902fba244222d7f/MkQ2N09jTTFRT0NScUozUEFxNklkNFhGcGM3Y1Y4eGNBVk1kWnMyc1J2az0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/37cdc7687c75c700/MkQ2N09jTTFRT0NScUozUEFxNklkMnBuYXhJR2JObVlkRTBrOHA0YitPZz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/d70bfb83ca948d33/MkQ2N09jTTFRT0NScUozUEFxNklkeHBCVFN5R3pqSXNhOVE2SU9BM3RuND0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/b3d5e7ba6d349a93/MkQ2N09jTTFRT0NScUozUEFxNklkeCtycm1VNk0zNkNZVEhRMjVvL0dzUT0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/440c016c508724d3/MkQ2N09jTTFRT0NScUozUEFxNklkOS9LT2FKaUhJQnp1VjJVdWNCRzlDOD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/2262542d79b830d5/MkQ2N09jTTFRT0NScUozUEFxNklkNUhSVTJEUDBFZjNLZUZ1Q0NuSjhkMD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf4.lf127.net/img/1e216e3f55a138d9/MkQ2N09jTTFRT0NScUozUEFxNklkMTIxa2pDbkcwbHA0bzVzMFdmaWhabz0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf3.lf127.net/img/b8152f0cd9fa2718/MkQ2N09jTTFRT0NScUozUEFxNklkNDd5WVNkZDNudEZVSTNzWmlFZ0xHOD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf4.lf127.net/img/990d3e3aa0f503b2/MkQ2N09jTTFRT0NScUozUEFxNklkN1oyeC82OUUvTFlCTlVNdFpoK0NSOD0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/0778fb6096d089a0/MkQ2N09jTTFRT0NScUozUEFxNklkMHNVUXE5ZkY0NFZwZkM0TzgrNWE4VT0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/6fcd0732d429fa4c/MkQ2N09jTTFRT0NScUozUEFxNklkNGFXbWpNZU9UQ3dvM1JuenRIcWZEST0.jpeg?imageView&thumbnail=1680x0)  
+![](https://imglf6.lf127.net/img/843abe403bbbbdb7/MkQ2N09jTTFRT0NScUozUEFxNklkeXYzSVRRQ2s3a21zbUZjUWhWNWFPRT0.jpeg?imageView&thumbnail=1680x0)  
 ## 数学
     数学[英语：mathematics，源自古希腊语μθημα（máthēma）；经常被缩写为math或maths]，是研究数量、结构、变化、空间以及信息等概念的一门学科。
 
@@ -57,32 +85,78 @@
 [培优专题49最值( 四 )综合法求最值.pptx](https://github.com/fujianprovince/study/files/8693163/49.pptx)  
 [培优专题50统计综合.pptx](https://github.com/fujianprovince/study/files/8693164/50.pptx)  
 [培优专题51概率综合.pptx](https://github.com/fujianprovince/study/files/8693165/51.pptx)  
+## 英语
+    英语（英语：English）是一种西日耳曼语支，最早被中世纪的英国使用，并因其广阔的殖民地而成为世界使用面积最广的语言。
 
-## 语文
-    语文是听、说、读、写、译的语言文字等的能力和语言知识及文化知识的统称。
-
-![](https://imglf4.lf127.net/img/687e5298479e3b67/MkQ2N09jTTFRT0NScUozUEFxNklkMWlSWXJDMklDWmJSYU1WU1hVVXcrOD0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf4.lf127.net/img/820be7e34a1b7cf2/MkQ2N09jTTFRT0NScUozUEFxNklkK3lCa0RlZVkzaU9oRllzYk51WGlSaz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf4.lf127.net/img/bd809eb9a78e8a9b/MkQ2N09jTTFRT0NScUozUEFxNklkM1lwSlluMkFyUGg1UTdmREJCN2xoaz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/07ea0b86f2b0558c/MkQ2N09jTTFRT0NScUozUEFxNklkeFFPeGZ3QkkzLy9IRWMzVFNCa3E1az0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf3.lf127.net/img/8a3f26bd826b4908/MkQ2N09jTTFRT0NScUozUEFxNklkMnJ3WHEzL2ZLOVdOa0JDQjB2VmZVaz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf3.lf127.net/img/5e67e0c77ff816f1/MkQ2N09jTTFRT0NScUozUEFxNklkNWVVb1NWVklDUjN4NXc0QkwvalIyZz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/b3ff75ac7a839e1c/MkQ2N09jTTFRT0NScUozUEFxNklkeHFxaWJodEtOb0NmeUx5OWhRTXZwdz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf3.lf127.net/img/b5f55e82a917f434/MkQ2N09jTTFRT0NScUozUEFxNklkNjVvWG9xN1o5MGQ4MmhnN3N2R3ZKbz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/a559cf5b5dcdefc7/MkQ2N09jTTFRT0NScUozUEFxNklkeVorWEtDVlhNWjJ3MnR3anV3bDRqaz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf5.lf127.net/img/3bff74ef53756127/MkQ2N09jTTFRT0NScUozUEFxNklkNGFHZk12ayt3L2dPMS9VN1gyK3U5Zz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/a902fba244222d7f/MkQ2N09jTTFRT0NScUozUEFxNklkNFhGcGM3Y1Y4eGNBVk1kWnMyc1J2az0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/37cdc7687c75c700/MkQ2N09jTTFRT0NScUozUEFxNklkMnBuYXhJR2JObVlkRTBrOHA0YitPZz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/d70bfb83ca948d33/MkQ2N09jTTFRT0NScUozUEFxNklkeHBCVFN5R3pqSXNhOVE2SU9BM3RuND0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/b3d5e7ba6d349a93/MkQ2N09jTTFRT0NScUozUEFxNklkeCtycm1VNk0zNkNZVEhRMjVvL0dzUT0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/440c016c508724d3/MkQ2N09jTTFRT0NScUozUEFxNklkOS9LT2FKaUhJQnp1VjJVdWNCRzlDOD0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf3.lf127.net/img/2262542d79b830d5/MkQ2N09jTTFRT0NScUozUEFxNklkNUhSVTJEUDBFZjNLZUZ1Q0NuSjhkMD0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf4.lf127.net/img/1e216e3f55a138d9/MkQ2N09jTTFRT0NScUozUEFxNklkMTIxa2pDbkcwbHA0bzVzMFdmaWhabz0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf3.lf127.net/img/b8152f0cd9fa2718/MkQ2N09jTTFRT0NScUozUEFxNklkNDd5WVNkZDNudEZVSTNzWmlFZ0xHOD0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf4.lf127.net/img/990d3e3aa0f503b2/MkQ2N09jTTFRT0NScUozUEFxNklkN1oyeC82OUUvTFlCTlVNdFpoK0NSOD0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/0778fb6096d089a0/MkQ2N09jTTFRT0NScUozUEFxNklkMHNVUXE5ZkY0NFZwZkM0TzgrNWE4VT0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/6fcd0732d429fa4c/MkQ2N09jTTFRT0NScUozUEFxNklkNGFXbWpNZU9UQ3dvM1JuenRIcWZEST0.jpeg?imageView&thumbnail=1680x0)  
-![](https://imglf6.lf127.net/img/843abe403bbbbdb7/MkQ2N09jTTFRT0NScUozUEFxNklkeXYzSVRRQ2s3a21zbUZjUWhWNWFPRT0.jpeg?imageView&thumbnail=1680x0)  
+### 拓展词汇
+accommodate n.容纳;顾及 
+accommodation n.住处;停留处;膳宿 
+actual adj.实际的;真实的 
+actually adv.事实上;的确 
+addict n.对……入迷的人 
+addicted n.有瘾的;入迷的 
+addicted to 对……很入迷 
+advanced adj.高级的;高等的;先进的 
+affair n.公共事务;事件;关系 
+amazed adj.惊奇的;惊喜的 
+annoy vt.使恼怒;打扰 
+annoyed adj.恼怒的;生气的 
+anxious adj.焦虑的;不安的 
+apart adv.分离;分开;成碎片 
+apply vi.&vt.申请;请求 vt.应用;涂(油漆、乳剂) 
+apply for 申请 
+appreciate vt.欣赏;重视;感激;领会 vi.增值 
+appreciation n.欣赏;体谅;理解;同情 
+arrange v.安排;筹备 
+arrangement n.安排;筹备 
+as if 似乎;好像;仿佛 
+attitude n.态度;看法 
+be attracted to 喜爱 
+audience n.观众;听众 
+awkward adj.令人尴尬的;难对付的 
+badminton n.羽毛球运动 
+based adj.以(某事)为基础的;以……为重要部分(或特征)的 
+BCE/B.C. 公元前 
+beg vt.恳求;祈求;哀求 
+brochure n.资料(或广告)手册 
+bury vt.埋葬;安葬 
+campus n.校园;校区 
+castle n.城堡;堡垒 
+CE/A.D. 公元 
+challenge n.挑战;艰巨任务 vt.怀疑;向……挑战 
+champion n.冠军;优胜者 
+championship n.锦标赛;冠军赛;冠军称号 
+check in (在旅馆、机场等)登记 
+check out 结账离开(旅馆等) 
+clean up 打扫(或清除)干净 
+come along 跟随;到达;进步;赶快 
+comment n.议论;评论 vi.&vt.发表意见;评论 
+compare ... with/to ... 与……比较 
+concentrate vi.&vt.集中(注意力);聚精会神 
+concentrate on 集中精力于 
+concern vt.涉及;影响 n.关心 
+confuse vt.使糊涂;使迷惑 
+confused adj.糊涂的;迷惑的 
+confusing adj.难以理解的;不清楚的 
+contact vt.联络;联系 n.联系;接触 
+context n.上下文;语境;背景 
+crack n.裂纹;裂缝 vi.&vt.(使)破裂 
+crash vi.&vt.碰撞;撞击 n.撞车;碰撞 
+credit n.借款;信用;称赞;学分 
+credit card n.信用卡 
+curious adj.好奇的;求知欲强的 
+cut ... out 停止做(或使用、食用);剪下 
+damage vt.损害;破坏 n.损坏;损失 
+date back (to ...) 追溯到 
+debate n.辩论;争论 vt.&vi.辩论;争论 
+deliver vt.&vi.递送;传达 vt.发表 
+demand n.要求;需求 vt.强烈要求;需要 vi.查问 
+designer n.设计者 
+despite prep.即使;尽管 
+destination n.目的地;终点 
+determine v.决定;确定;测定 
+determination n.决心;决定 
+disaster n.灾害;灾难   
 ## 化学
     化学（chemistry）是自然科学的一种。化学是主要在分子、原子层面，研究物质的组成、性质、结构与变化规律的科学。  
 
