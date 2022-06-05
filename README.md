@@ -6,6 +6,8 @@
 ## [陈郑逸领域-文旅子页面](https://fujianprovince.github.io/literature-and-travel/ "探索文旅")  
 ## [陈郑逸领域-老师同学子页面](https://fujianprovince.github.io/teachers-and-classmates/ "探索老师同学")  
 ![photo](https://imglf5.lf127.net/img/9975664593e2fcfe/MkQ2N09jTTFRT0RybFY4QlBROVZUZzZtc3YrbkV1OHJyaHc1NEZ6cHFRQT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)  
+## 综合
+[福建省各地级市五月质检](https://c1.rabbitpre.com/m2/FqMkJ1iqcgZ?currentTimestamp=1654354583495&lc=1&sui=obGcFt6euU11qdk-nfdV5YJx8heI&resource=o5_FNs8aBllvaLdGwss_JWLGYfNc%2Cwx06a877b61d74ea72%2Cwechat&resourcetype=OPENID%2CAPPID%2CTYPE&from=singlemessage#165435462184340)  
 ## 语文
     语文是听、说、读、写、译的语言文字等的能力和语言知识及文化知识的统称。
 
