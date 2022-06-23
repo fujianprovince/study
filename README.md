@@ -6,6 +6,9 @@
 ## [陈郑逸领域-文旅子页面](https://fujianprovince.github.io/literature-and-travel/ "探索文旅")  
 ## [陈郑逸领域-老师同学子页面](https://fujianprovince.github.io/teachers-and-classmates/ "探索老师同学")  
 ![photo](https://imglf5.lf127.net/img/9975664593e2fcfe/MkQ2N09jTTFRT0RybFY4QlBROVZUZzZtc3YrbkV1OHJyaHc1NEZ6cHFRQT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)  
+![contributions and payment](https://imglf4.lf127.net/img/cd5b50094581642a/MkQ2N09jTTFRT0JLaE1QRm96UUd0NTFmbWpIamZKdGZpbUJOSGthVHdMTT0.png?imageView&thumbnail=1680x0)
+如果你觉得本网站不错，欢迎通过微信扫描以上赞赏码向本网站捐款。你的捐款将成为激励本网站建设的动力！预致谢！  
+(东南学苑受本网站建立者陈郑逸的委托，代收关于本网站的捐款。)  
 ## 综合
 [福建省各地级市五月质检](https://c1.rabbitpre.com/m2/FqMkJ1iqcgZ?currentTimestamp=1654354583495&lc=1&sui=obGcFt6euU11qdk-nfdV5YJx8heI&resource=o5_FNs8aBllvaLdGwss_JWLGYfNc%2Cwx06a877b61d74ea72%2Cwechat&resourcetype=OPENID%2CAPPID%2CTYPE&from=singlemessage#165435462184340)  
 ## 语文
