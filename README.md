@@ -298,5 +298,6 @@ work out 锻炼;计算出;解决
 以ll结尾的形容词变副词，在其后加y即可。  
 ## 化学
     化学（chemistry）是自然科学的一种。化学是主要在分子、原子层面，研究物质的组成、性质、结构与变化规律的科学。  
-
 ![元素周期表](https://user-images.githubusercontent.com/88808312/177322490-32f63706-58e1-41fa-b3a9-dbe5349bbea0.jpg)
+
+## [阅览结束~休闲一下~](https://fujianprovince.github.io/ "休闲一下")  
