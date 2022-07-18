@@ -300,4 +300,4 @@ work out 锻炼;计算出;解决
     化学（chemistry）是自然科学的一种。化学是主要在分子、原子层面，研究物质的组成、性质、结构与变化规律的科学。  
 ![元素周期表](https://user-images.githubusercontent.com/88808312/177322490-32f63706-58e1-41fa-b3a9-dbe5349bbea0.jpg)
 
-## [阅览结束~休闲一下~](https://www.bilibili.com/blackboard/fe/activity-HQjQSdd3L8.html "休闲一下")  
+## *[阅 览 结 束 ~ 休 闲 一 下 ~](https://fujianprovince.github.io/game.html "休闲一下")*  
