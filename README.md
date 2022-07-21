@@ -6,6 +6,7 @@
 ## [陈郑逸领域-实验子页面](https://fujianprovince.github.io/experiments/ "探索实验") 
 ## [陈郑逸领域-文旅子页面](https://fujianprovince.github.io/literature-and-travel/ "探索文旅")  
 ## [陈郑逸领域-老师同学子页面](https://fujianprovince.github.io/teachers-and-classmates/ "探索老师同学")  
+## [陈郑逸领域-评论子页面](https://github.com/fujianprovince/fujianprovince.github.io/wiki "发表评论")  
 ![photo](https://imglf5.lf127.net/img/9975664593e2fcfe/MkQ2N09jTTFRT0RybFY4QlBROVZUZzZtc3YrbkV1OHJyaHc1NEZ6cHFRQT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)  
 ![contributions and payment](https://imglf4.lf127.net/img/cd5b50094581642a/MkQ2N09jTTFRT0JLaE1QRm96UUd0NTFmbWpIamZKdGZpbUJOSGthVHdMTT0.png?imageView&thumbnail=1680x0)
 如果你觉得本网站不错，欢迎通过微信扫描以上赞赏码向本网站捐款。你的捐款将成为激励本网站建设的动力！预致谢！  
