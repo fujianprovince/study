@@ -72,6 +72,7 @@
     英语（英语：English）是一种西日耳曼语支，最早被中世纪的英国使用，并因其广阔的殖民地而成为世界使用面积最广的语言。
 
 ### 拓展词汇
+[PDF版](https://fujianprovince.github.io/vocabulary.pdf)  
 ![1 (1)](https://user-images.githubusercontent.com/88808312/181914682-f97fa794-f268-4fdb-87d8-441c953c42be.jpg)  
 ![1 (2)](https://user-images.githubusercontent.com/88808312/181914688-dd77ee15-4f0e-4523-bde0-10a5b966fdda.jpg)  
 ![1 (3)](https://user-images.githubusercontent.com/88808312/181914695-f69c87e7-d2c7-459b-b3c6-7ddb06048901.jpg)  
